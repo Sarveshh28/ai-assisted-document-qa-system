@@ -1,4 +1,4 @@
-# ai-assisted-document-qa-system
+# AI-ASSISTED DOCUMENT QA SYSTEM
 
 An advanced artificial intelligence project that builds a complete research-document question answering system with hybrid retrieval, reranking, grounded answer synthesis, evaluation, API endpoints, and a direct Streamlit UI.
 
