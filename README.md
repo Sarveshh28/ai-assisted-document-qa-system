@@ -1,4 +1,4 @@
-# Research Paper Intelligence Assistant
+# ai-assisted-document-qa-system
 
 An advanced artificial intelligence project that builds a complete research-document question answering system with hybrid retrieval, reranking, grounded answer synthesis, evaluation, API endpoints, and a direct Streamlit UI.
 
@@ -127,4 +127,4 @@ After ingestion, the system writes:
 
 ## Suggested Submission Title
 
-**Research Paper Intelligence Assistant using Hybrid Retrieval and Grounded Question Answering**
+**ai-assisted-document-qa-system**
