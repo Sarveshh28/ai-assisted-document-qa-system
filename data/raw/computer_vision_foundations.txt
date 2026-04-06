@@ -1,0 +1,3 @@
+Computer vision focuses on enabling machines to interpret images and video. Classical computer vision relied on hand-engineered features, while modern systems often use convolutional neural networks or vision transformers. Applications include object detection, segmentation, medical imaging, surveillance, and autonomous driving.
+
+Vision transformers adapt the transformer idea to image patches. They model image regions as token-like inputs and learn global relationships across the visual field. This made transformer-based learning a major theme across both language and vision research.

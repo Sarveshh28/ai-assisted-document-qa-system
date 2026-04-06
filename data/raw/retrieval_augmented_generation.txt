@@ -1,0 +1,5 @@
+Retrieval augmented generation, often called RAG, combines document retrieval with language generation. Instead of asking a model to answer only from parametric memory, the system first retrieves relevant external knowledge. This improves factual grounding, domain adaptation, and transparency. In academic and enterprise settings, RAG is useful because the knowledge base can be updated without retraining the entire language model.
+
+The standard RAG pipeline includes document ingestion, chunking, embedding, indexing, retrieval, reranking, and answer generation. Hybrid retrieval systems combine semantic similarity with lexical signals. These systems usually perform better than single-method retrieval because they capture both exact keyword matches and broader semantic meaning.
+
+Grounded responses are important because they reduce hallucinations. A grounded assistant should present answers that are supported by retrieved passages. This makes the system more trustworthy for research support, policy search, and technical document exploration.

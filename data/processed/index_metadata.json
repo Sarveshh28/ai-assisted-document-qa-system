@@ -1,0 +1,114 @@
+{
+  "project": "Research Paper Intelligence Assistant",
+  "source_dir": "C:\\AAI PROJECT\\data\\raw",
+  "document_count": 6,
+  "chunk_count": 8,
+  "avg_chunk_tokens": 90.88,
+  "chunk_size": 120,
+  "overlap": 30,
+  "documents": [
+    {
+      "doc_id": "ai_agents_and_tool_use",
+      "title": "Ai Agents And Tool Use",
+      "word_count": 134,
+      "sentence_count": 9,
+      "keywords": [
+        "agent",
+        "agents",
+        "can",
+        "actions",
+        "system",
+        "than",
+        "tool",
+        "action"
+      ],
+      "source_path": "C:\\AAI PROJECT\\data\\raw\\ai_agents_and_tool_use.txt"
+    },
+    {
+      "doc_id": "computer_vision_foundations",
+      "title": "Computer Vision Foundations",
+      "word_count": 77,
+      "sentence_count": 6,
+      "keywords": [
+        "vision",
+        "across",
+        "computer",
+        "image",
+        "transformer",
+        "transformers",
+        "adapt",
+        "applications"
+      ],
+      "source_path": "C:\\AAI PROJECT\\data\\raw\\computer_vision_foundations.txt"
+    },
+    {
+      "doc_id": "llm_safety_alignment",
+      "title": "Llm Safety Alignment",
+      "word_count": 111,
+      "sentence_count": 7,
+      "keywords": [
+        "safety",
+        "alignment",
+        "behavior",
+        "human",
+        "model",
+        "policy",
+        "refusal",
+        "system"
+      ],
+      "source_path": "C:\\AAI PROJECT\\data\\raw\\llm_safety_alignment.txt"
+    },
+    {
+      "doc_id": "multimodal_ai_systems",
+      "title": "Multimodal Ai Systems",
+      "word_count": 119,
+      "sentence_count": 7,
+      "keywords": [
+        "multimodal",
+        "one",
+        "systems",
+        "audio",
+        "data",
+        "image",
+        "question",
+        "text"
+      ],
+      "source_path": "C:\\AAI PROJECT\\data\\raw\\multimodal_ai_systems.txt"
+    },
+    {
+      "doc_id": "retrieval_augmented_generation",
+      "title": "Retrieval Augmented Generation",
+      "word_count": 137,
+      "sentence_count": 10,
+      "keywords": [
+        "retrieval",
+        "because",
+        "document",
+        "generation",
+        "rag",
+        "answer",
+        "grounded",
+        "knowledge"
+      ],
+      "source_path": "C:\\AAI PROJECT\\data\\raw\\retrieval_augmented_generation.txt"
+    },
+    {
+      "doc_id": "transformers_in_nlp",
+      "title": "Transformers In Nlp",
+      "word_count": 89,
+      "sentence_count": 6,
+      "keywords": [
+        "large",
+        "model",
+        "tuning",
+        "attention",
+        "can",
+        "fine",
+        "language",
+        "self"
+      ],
+      "source_path": "C:\\AAI PROJECT\\data\\raw\\transformers_in_nlp.txt"
+    }
+  ],
+  "generated_at_utc": "2026-04-06T18:48:03.740514+00:00"
+}

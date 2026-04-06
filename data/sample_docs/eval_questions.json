@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Why does retrieval augmented generation improve factual grounding?",
+    "relevant_doc_id": "retrieval_augmented_generation"
+  },
+  {
+    "question": "What made transformers scale effectively in NLP?",
+    "relevant_doc_id": "transformers_in_nlp"
+  },
+  {
+    "question": "What are vision transformers based on?",
+    "relevant_doc_id": "computer_vision_foundations"
+  },
+  {
+    "question": "Why is tool use important in AI agents?",
+    "relevant_doc_id": "ai_agents_and_tool_use"
+  },
+  {
+    "question": "What does an AI agent loop usually include?",
+    "relevant_doc_id": "ai_agents_and_tool_use"
+  },
+  {
+    "question": "What methods are used for LLM safety and alignment?",
+    "relevant_doc_id": "llm_safety_alignment"
+  },
+  {
+    "question": "Why is evaluation important in model alignment work?",
+    "relevant_doc_id": "llm_safety_alignment"
+  },
+  {
+    "question": "What does a multimodal AI system process?",
+    "relevant_doc_id": "multimodal_ai_systems"
+  },
+  {
+    "question": "Why is alignment across modalities difficult in multimodal AI?",
+    "relevant_doc_id": "multimodal_ai_systems"
+  }
+]

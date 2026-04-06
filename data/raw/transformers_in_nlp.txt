@@ -1,0 +1,3 @@
+Transformers changed natural language processing by replacing recurrent architectures with self-attention mechanisms. Self-attention allows the model to weigh relationships between tokens regardless of distance, which improves long-range dependency modeling. Because transformer training can be parallelized efficiently, the architecture scaled well for large datasets and large model sizes.
+
+Pretraining and fine-tuning made transformers widely successful. A model can first learn general language representations on large corpora and then adapt to downstream tasks such as classification, summarization, and question answering. More recent methods include instruction tuning, retrieval augmentation, and parameter-efficient fine-tuning.
